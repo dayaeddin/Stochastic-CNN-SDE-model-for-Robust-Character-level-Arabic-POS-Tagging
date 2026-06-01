@@ -42,7 +42,7 @@ Overall metrics:
 - **Weighted F1**: 0.52
 
 <p align="center">
-  <img src="Test.png" alt="Research Animation" width="500" />
+  <img src="Test_Confusion_Matrix_ar_padt_word_char_BiLSTM_SDE.png.png" alt="Research Animation" width="500" />
 </p>
 
 <p align="center">
