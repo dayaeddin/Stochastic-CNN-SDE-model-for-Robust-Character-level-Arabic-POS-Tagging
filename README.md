@@ -50,7 +50,7 @@ Overall metrics:
 </p>
 
 <p align="center">
-  <img src="pr_curve_sde.png" alt="Research Animation" width="500" />
+  <img src="Test_Token-level_Prediction_Uncertainty_ar_padt_word_char_BiLSTM_SDE.png" alt="Research Animation" width="500" />
 </p>
 
 <p align="center">
