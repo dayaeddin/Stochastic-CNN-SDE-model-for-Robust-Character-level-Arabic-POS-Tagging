@@ -46,7 +46,7 @@ Overall metrics:
 </p>
 
 <p align="center">
-  <img src="confusion_matrix_sde.png" alt="Research Animation" width="500" />
+  <img src="Test_F1-score_ar_padt_word_char_BiLSTM_SDE.png" alt="Research Animation" width="500" />
 </p>
 
 <p align="center">
