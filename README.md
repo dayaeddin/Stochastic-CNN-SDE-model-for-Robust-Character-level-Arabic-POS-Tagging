@@ -54,7 +54,7 @@ Overall metrics:
 </p>
 
 <p align="center">
-  <img src="roc_curve_sde.png" alt="Research Animation" width="500" />
+  <img src="accuracy_curves_ar_padt_word_char_BiLSTM_SDE.png" alt="Research Animation" width="500" />
 </p>
 
 <p align="center">
