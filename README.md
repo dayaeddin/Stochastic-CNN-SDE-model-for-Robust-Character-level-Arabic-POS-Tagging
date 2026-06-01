@@ -39,7 +39,28 @@ Overall metrics:
 
 - **Accuracy**: 0.69  
 - **Macro F1**: 0.60  
-- **Weighted F1**: 0.52  
+- **Weighted F1**: 0.52
+
+<p align="center">
+  <img src="Test.png" alt="Research Animation" width="500" />
+</p>
+
+<p align="center">
+  <img src="confusion_matrix_sde.png" alt="Research Animation" width="500" />
+</p>
+
+<p align="center">
+  <img src="pr_curve_sde.png" alt="Research Animation" width="500" />
+</p>
+
+<p align="center">
+  <img src="roc_curve_sde.png" alt="Research Animation" width="500" />
+</p>
+
+<p align="center">
+  <img src="roc_curve_sde.png" alt="Research Animation" width="500" />
+</p>
+
 
 ## Citation
 
